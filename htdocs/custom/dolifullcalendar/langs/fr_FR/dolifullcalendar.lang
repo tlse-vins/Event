@@ -1,0 +1,63 @@
+# <one line to give the program's name and a brief idea of what it does.>
+# Copyright (C) <2016>  <jamelbaz@gmail.com>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#
+# Generic
+#
+
+# Module label 'Module1789753DoliFullCalendar'
+Module1789753DoliFullCalendar = FullCalendar
+# Module description 'ModuleXXXDesc'
+# (where XXX is value of numeric property 'numero' of module)
+Module1789753DoliFullCalendar = Calendrier interactif
+
+#
+# Admin page
+#
+MyModuleSetup = My module setup
+Settings = Settings
+MyModuleSetupPage = My module setup page
+
+#
+# About page
+#
+About = Calendar
+MyModuleAbout = Calendrier interactif
+MyModuleAboutPage = jamelbaz.com
+
+#
+# Sample page
+#
+Calendar = Calendrier
+addEvent = Ajouter un nouvel événement
+Title = Titre
+Color = Couleur
+Choose = Choisissez
+Darkblue = Bleu foncé
+Turquoise = Turquoise
+Green = Vert						  
+Yellow = Jaune
+Orange = Orange
+Red = Rouge
+Black = Noir
+Startdate = Date début
+Enddate = Date fin
+Close = Férmer
+Savechanges = Sauvegarder les modifications
+EditEvent = Modifier l'événement
+DeleteEvent = Supprimer l'événement
+Saved = Bien enregistré
+NotSaved = N'a pas pu être enregistré. réessayer!
